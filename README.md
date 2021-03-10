@@ -10,7 +10,7 @@ Olá, meu nome é Evandro Oliveira 😎BR, em 2007 me apaixonei pela programaç�
 
 🤣Juro que o wordpress é o melhor CMS
 
-Reach me out 👇🏼
+🔎 Reach me out 👇🏼
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiraevandro/)
 ![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Evandroapaoliveira/)
