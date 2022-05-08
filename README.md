@@ -10,7 +10,7 @@ Olá, meu nome é Evandro Oliveira 😎BR, em 2007 me apaixonei pela programaç�
 
 🤣Juro que o wordpress é o melhor CMS
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandodev&show_icons=true&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandodev&show_icons=true&theme=dracula&hide=prs,issues,contribs)
 
 🔎 Reach me out 👇🏼
 
