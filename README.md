@@ -34,5 +34,5 @@ Olá, meu nome é Evandro Oliveira 😎BR, em 2007 me apaixonei pela programaç�
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/azevedogabriel/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/vandodev/count.svg" />
  </p>
